@@ -1,0 +1,1952 @@
+{
+    "barrington": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "10831",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "7712"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2889"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "113"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "78"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "14"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "13"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "12"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "6",
+        "precincts_reporting": "6"
+    },
+    "bristol": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "11617",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "6779"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "4589"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "139"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "60"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "19"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "17"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "14"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "10",
+        "precincts_reporting": "10"
+    },
+    "burrillville": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "8538",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "4906"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "3434"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "126"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "37"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "15"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "13"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "7"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "7",
+        "precincts_reporting": "7"
+    },
+    "central_falls": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4271",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "3072"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "1113"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "27"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "25"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "16"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "8"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "9",
+        "precincts_reporting": "9"
+    },
+    "charlestown": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "5220",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2909"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2198"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "64"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "27"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "4"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "5",
+        "precincts_reporting": "5"
+    },
+    "coventry": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "20001",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "10460"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "9121"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "232"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "89"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "40"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "37"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "22"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "19",
+        "precincts_reporting": "19"
+    },
+    "cranston": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "41043",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "23032"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "17310"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "311"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "202"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "73"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "68"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "47"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "31",
+        "precincts_reporting": "31"
+    },
+    "cumberland": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "19675",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "10868"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "8416"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "206"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "102"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "38"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "27"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "18"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "14",
+        "precincts_reporting": "14"
+    },
+    "east_greenwich": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "8645",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "5218"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3225"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "104"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "73"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "8"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "8"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "6",
+        "precincts_reporting": "6"
+    },
+    "east_providence": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "23152",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "14735"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "7929"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "204"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "132"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "58"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "49"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "45"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "19",
+        "precincts_reporting": "19"
+    },
+    "exeter": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4082",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2009"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "1974"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "55"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "23"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "8"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "4"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "4",
+        "precincts_reporting": "4"
+    },
+    "foster": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "2864",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "1582"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "1223"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "34"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "4"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "2"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "3",
+        "precincts_reporting": "3"
+    },
+    "glocester": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "6113",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3351"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2638"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "62"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "38"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "8"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "6"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "5",
+        "precincts_reporting": "5"
+    },
+    "hopkinton": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4846",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2423"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2298"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "74"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "24"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "12"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "6"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "4",
+        "precincts_reporting": "4"
+    },
+    "jamestown": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4083",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2794"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "1212"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "44"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "19"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "3"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "1"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "3",
+        "precincts_reporting": "3"
+    },
+    "johnston": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "15260",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "8222"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "6835"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "88"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "58"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "24"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "18"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "15"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "14",
+        "precincts_reporting": "14"
+    },
+    "lincoln": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "12667",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "6630"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "5778"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "130"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "71"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "28"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "19"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "11"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "12",
+        "precincts_reporting": "12"
+    },
+    "little_compton": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "2535",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "1524"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "951"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "28"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "18"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "8"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "5"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "1"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "2",
+        "precincts_reporting": "2"
+    },
+    "middletown": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "8608",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "5529"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2885"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "115"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "44"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "14"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "12"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "9"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "6",
+        "precincts_reporting": "6"
+    },
+    "narragansett": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "9030",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "5333"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3551"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "62"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "56"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "14"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "5"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "6",
+        "precincts_reporting": "6"
+    },
+    "new_shoreham": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "955",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "748"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "195"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "7"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "4"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "1"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "0"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "0"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "2",
+        "precincts_reporting": "2"
+    },
+    "newport": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "10711",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "7866"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2661"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "85"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "61"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "16"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "12"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "10"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "10",
+        "precincts_reporting": "10"
+    },
+    "north_kingstown": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "17575",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "10532"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "6633"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "203"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "124"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "35"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "33"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "15"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "10",
+        "precincts_reporting": "10"
+    },
+    "north_providence": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "16850",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "9438"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "7128"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "145"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "66"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "31"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "23"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "19"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "17",
+        "precincts_reporting": "17"
+    },
+    "north_smithfield": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "7204",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3550"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "3505"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "85"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "34"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "11"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "9"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "6",
+        "precincts_reporting": "6"
+    },
+    "pawtucket": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "25775",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "18041"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "7256"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "188"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "121"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "68"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "52"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "49"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "32",
+        "precincts_reporting": "32"
+    },
+    "portsmouth": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "10913",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "6646"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3994"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "148"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "73"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "24"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "15"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "13"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "9",
+        "precincts_reporting": "9"
+    },
+    "providence": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "57156",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "45931"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "10185"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "346"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "314"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "180"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "111"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "89"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "81",
+        "precincts_reporting": "81"
+    },
+    "richmond": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4807",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2345"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2343"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "66"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "21"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "14"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "9"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "9"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "3",
+        "precincts_reporting": "3"
+    },
+    "scituate": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "6681",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "3804"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "2735"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "69"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "38"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "15"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "12"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "8"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "4",
+        "precincts_reporting": "4"
+    },
+    "smithfield": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "11524",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "5743"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "5563"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "118"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "56"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "20"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "13"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "11"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "7",
+        "precincts_reporting": "7"
+    },
+    "south_kingstown": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "16688",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "11254"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "5003"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "212"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "121"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "38"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "30"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "30"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "11",
+        "precincts_reporting": "11"
+    },
+    "tiverton": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "9290",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "5121"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "4017"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "84"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "32"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "17"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "10"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "9"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "8",
+        "precincts_reporting": "8"
+    },
+    "warren": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "5925",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "3523"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2261"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "74"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "38"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "11"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "11"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "7"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "4",
+        "precincts_reporting": "4"
+    },
+    "warwick": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "46437",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "25842"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "19577"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "545"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "271"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "81"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "68"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "53"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "34",
+        "precincts_reporting": "34"
+    },
+    "west_greenwich": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "4000",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "2242"
+                    },
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "1693"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "41"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "13"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "6"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "3"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "2"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "5",
+        "precincts_reporting": "5"
+    },
+    "west_warwick": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "14000",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "7234"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "6492"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "143"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "73"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "28"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "15"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "15"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "11",
+        "precincts_reporting": "11"
+    },
+    "westerly": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "12851",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "7150"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "5463"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "127"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "64"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "18"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "16"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "13"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "8",
+        "precincts_reporting": "8"
+    },
+    "woonsocket": {
+        "contests": [
+            {
+                "name": "Presidential Electors For:",
+                "contest_number": "301",
+                "total_votes": "13836",
+                "votes_allowed": "1",
+                "candidates": [
+                    {
+                        "name": "Joseph R. Biden",
+                        "party_code": "DEM",
+                        "votes": "7288"
+                    },
+                    {
+                        "name": "Donald J. Trump",
+                        "party_code": "REP",
+                        "votes": "6264"
+                    },
+                    {
+                        "name": "Jo Jorgensen",
+                        "party_code": "Lib",
+                        "votes": "154"
+                    },
+                    {
+                        "name": "WRITE-IN",
+                        "party_code": "NON",
+                        "votes": "47"
+                    },
+                    {
+                        "name": "Gloria La Riva",
+                        "party_code": "S&L",
+                        "votes": "33"
+                    },
+                    {
+                        "name": "Roque &quot;Rocky&quot; De La Fuente",
+                        "party_code": "All",
+                        "votes": "28"
+                    },
+                    {
+                        "name": "Brian Carroll",
+                        "party_code": "AS",
+                        "votes": "22"
+                    }
+                ]
+            }
+        ],
+        "last_updated": "November 10, 2020 06:00 PM",
+        "precinct_count": "13",
+        "precincts_reporting": "13"
+    }
+}
