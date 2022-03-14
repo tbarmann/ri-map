@@ -1,7 +1,7 @@
 let electionDataURL = './us-pres-by-town.json'
 let riURL = './ri.geojson';
 
-let cityData;
+let geojson;
 let electionData;
 
 var tooltip = d3.select("body").append("div")
@@ -20,7 +20,7 @@ var geoGenerator = d3.geoPath()
 
 let drawMap = () => {
   canvas.selectAll('path')
-    .data(cityData)
+    .data(geojson.features)
     .enter()
     .append('path')
     .attr('d', geoGenerator)
@@ -60,7 +60,7 @@ d3.json(riURL).then((data, error) => {
   if (error) {
     console.log(error);
   } else {
-    cityData = data.features;
+    geojson = data;
     d3.json(electionDataURL).then((data, error) => {
       if (error) {
         console.log(error);
