@@ -10,10 +10,9 @@ var tooltip = d3.select("body").append("div")
 
 let canvas = d3.select('#canvas')
 
-var projection = d3.geoTransverseMercator()
-  .scale(70000)
-  .translate([500, 1150])
-  .rotate([71 + 30 / 60, -41 - 5 / 60]);
+let width = 1000;
+let height = 1100;
+
  let mouseOver = function(d) {
     d3.select(this)
       .raise()
@@ -46,10 +45,14 @@ var projection = d3.geoTransverseMercator()
       .style("opacity", 0);
   }
 
-var geoGenerator = d3.geoPath()
-  .projection(projection);
 
 let drawMap = () => {
+  // fitsize:
+  // https://stackoverflow.com/questions/14492284/center-a-map-in-d3-given-a-geojson-object
+  var projection = d3.geoMercator().fitSize([width, height], geojson);
+  var geoGenerator = d3.geoPath()
+  .projection(projection);
+
   canvas.selectAll('path')
     .data(geojson.features)
     .enter()
